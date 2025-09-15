@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "BreedVision AI",
+    "subtitle": "Cattle & Buffalo Recognition"
+  },
+  "hero": {
+    "badge": "Smart India Hackathon 2025 - CodeVision Team",
+    "title": "AI-Powered Breed",
+    "titleHighlight": "Recognition Platform",
+    "description": "Instantly identify cattle and buffalo breeds using advanced AI technology. Built for farmers, researchers, and veterinarians across India.",
+    "features": {
+      "mobile": "Mobile Friendly",
+      "multilang": "Multi-Language",
+      "accuracy": "99% Accuracy"
+    }
+  },
+  "upload": {
+    "title": "Upload Your Animal Photo",
+    "description": "Take a clear photo of your cattle or buffalo, and our AI will instantly identify the breed with detailed information about characteristics and milk yield.",
+    "dragText": "Upload Cattle or Buffalo Image",
+    "dragDesc": "Drag and drop an image here, or click to select a file. We support JPG, PNG, and WEBP formats.",
+    "chooseFile": "Choose File",
+    "takePhoto": "Take Photo",
+    "analyzing": "Analyzing breed...",
+    "analyzeAnother": "Analyze Another Image"
+  },
+  "features": {
+    "title": "Why Choose BreedVision AI?",
+    "subtitle": "Advanced technology made simple for Indian farmers",
+    "instant": {
+      "title": "Instant Results",
+      "description": "Get breed identification results in seconds with our lightning-fast AI processing."
+    },
+    "accuracy": {
+      "title": "High Accuracy",
+      "description": "Trained on extensive Indian breed datasets with 99% identification accuracy."
+    },
+    "multilang": {
+      "title": "Multi-Language",
+      "description": "Available in 13 Indian languages to serve farmers across all states."
+    },
+    "friendly": {
+      "title": "Farmer Friendly",
+      "description": "Simple interface designed specifically for rural users with limited tech experience."
+    }
+  },
+  "about": {
+    "title": "About Our Technology",
+    "subtitle": "Built by Team CodeVision for Smart India Hackathon 2025",
+    "ai": {
+      "title": "AI-Powered Recognition",
+      "description": "Our deep learning models are trained on comprehensive datasets of Indian cattle and buffalo breeds, ensuring accurate identification of indigenous varieties."
+    },
+    "mobile": {
+      "title": "Mobile-First Design",
+      "description": "Optimized for smartphones with offline capabilities, making it accessible to farmers in remote areas with limited internet connectivity."
+    },
+    "problem": "Problem Statement",
+    "problemDesc": "Image-based Breed Recognition for Cattle and Buffaloes of India (SIH25004) - Agriculture, FoodTech & Rural Development",
+    "solution": "Our Solution",
+    "solutionDesc": "Fast, accurate, and accessible breed identification that empowers farmers with instant knowledge about their livestock characteristics and potential."
+  },
+  "result": {
+    "match": "Match",
+    "milkProduction": "Milk Production",
+    "avgDaily": "Average daily yield",
+    "physicalTraits": "Physical Traits",
+    "height": "HEIGHT",
+    "weight": "WEIGHT",
+    "color": "Color:",
+    "horns": "Horns:",
+    "characteristics": "Key Characteristics"
+  },
+  "footer": {
+    "description": "Empowering Indian farmers with AI-powered livestock breed recognition technology.",
+    "team": "Team CodeVision",
+    "hackathon": "Smart India Hackathon 2025",
+    "problemId": "Problem ID: SIH25004",
+    "builtWith": "Built with ❤️ for Indian farmers and livestock community"
+  },
+  "language": {
+    "select": "Select Language",
+    "close": "Close"
+  }
+}
