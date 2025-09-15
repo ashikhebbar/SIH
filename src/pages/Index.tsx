@@ -6,14 +6,12 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
 import { Smartphone, Brain, Globe, Users, Camera, Zap, Shield, Award } from 'lucide-react';
-import LanguageModal from '@/components/LanguageModal';
+import LanguageSelector from '@/components/LanguageSelector';
 import ImageUpload from '@/components/ImageUpload';
 import BreedResult from '@/components/BreedResult';
 import heroImage from '@/assets/hero-farming.jpg';
-import { useTranslation } from 'react-i18next';
 
 const Index = () => {
-  const { t } = useTranslation();
   const [selectedLanguage, setSelectedLanguage] = useState('en');
   const [uploadedImage, setUploadedImage] = useState<File | null>(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
@@ -69,7 +67,7 @@ const Index = () => {
               <p className="text-sm text-muted-foreground">Cattle & Buffalo Recognition</p>
             </div>
           </div>
-          <LanguageModal 
+          <LanguageSelector 
             selectedLanguage={selectedLanguage}
             onLanguageChange={setSelectedLanguage}
           />
